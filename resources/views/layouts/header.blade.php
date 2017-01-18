@@ -43,7 +43,7 @@
                 Vue SPA
             </h1>
             <h2 class="subtitle">
-                Subtitle
+                Vue.js 2.1 Single Page Application
             </h2>
         </div>
     </div>
